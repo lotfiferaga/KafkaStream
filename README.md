@@ -40,3 +40,12 @@ object WordCountApplication extends App {
   streams.start()
 }
 ```
+
+## Deployment
+To deploy the Kafka Streams application:
+1. Compile the Scala code into a JAR file.
+2. Deploy the JAR file to a server or cluster where Kafka is installed.
+3. Start the Kafka Streams application using the appropriate command.
+
+
+
